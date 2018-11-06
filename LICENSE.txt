@@ -1,1 +1,2 @@
 ShiMing
+Git is a very good tool!
